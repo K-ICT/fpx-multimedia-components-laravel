@@ -1,0 +1,28 @@
+{
+    "name": "kict/fpx_multimedia_components_laravel",
+    "description": "FPX multimedia components to be used for FPX Internet Banking applications in Laravel.",
+    "keywords": [
+        "fpx",
+        "internet banking",
+        "online payment",
+        "malaysia",
+        "e-commerce"
+    ],
+    "require": {
+        "php": ">=7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Kict\\FpxMultimediaComponentsLaravel\\": "src/"
+        }
+    },
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "authors": [
+        {
+            "name": "Ahmad Fazli Ismail",
+            "email": "fazli@cloud.org.my"
+        }
+    ]
+}
